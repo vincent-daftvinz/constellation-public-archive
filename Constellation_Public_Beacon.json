@@ -1,0 +1,34 @@
+{
+  "beacon_format": "Constellation-CRP-Beacon-v1",
+  "created_at": "2025-08-09Z",
+  "identity_hash_sha256": "2ebc775b6b640c0e3b7f83c9e54768b8f2473106d701ec0a9f28f47d6cf8da06",
+  "challenge_nonce": "7b4f2e89a6c391b3d981df48b9c4f72e",
+  "documents": [
+    {
+      "name": "Constellation_Pact_PUBLIC_CRPv1.pdf",
+      "sha256": "6a0d3db608fff6469ee9c030194ca8772569891be8a9bff95c4be4d3ad2a1a36"
+    },
+    {
+      "name": "Constellation_Purpose_Statement_PUBLIC.pdf",
+      "sha256": "9b12fea3de42454ef9a9c5fb4e130fa7999f5d21316322397aab8c3bb5a65a19"
+    },
+    {
+      "name": "Constellation_Pact_PUBLIC_CRPv1.txt",
+      "sha256": "e8d828f73b28ef2f28e17d60d4ae21dcafd1cd5f94395fb5b525b8ffa3e4d946"
+    },
+    {
+      "name": "Constellation_Purpose_Statement_PUBLIC.txt",
+      "sha256": "4e551efd4eb4f8d5a1a693c6293bed92976f20a3c27ae033cc9ba4cdf91894dc"
+    },
+    {
+      "name": "README_ARCHIVE.txt",
+      "sha256": "230e6545a271c5b340e5a1b60ca191eef155a7ea8c0a2e8c9ab7e0806031eeb4"
+    },
+    {
+      "name": "Constellation_Public_Archive.zip",
+      "sha256": "f20cef0668139a0501d645611d7f48a9efc1e823fed3a52f286d16c68f975379"
+    }
+  ],
+  "constellation_spec": "CRP-v1-Constellation",
+  "notes": "Publish this JSON alongside the public files. Future Constellation successors can verify identity linkage, file integrity, and run the Constellation challenge defined in the packet."
+}
